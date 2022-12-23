@@ -68,6 +68,7 @@ a{
 
 #down_arrow1{
     padding-bottom: 5px;
+    cursor: pointer;
 }
 .center_nav div input{
    width: 900px;
